@@ -5,8 +5,17 @@ Instead of solving 1000 random questions, you'll learn how to **think in pattern
 
 ---
 
+## 🚀 Pre-requistes of Babua DSA Patterns Sheet 2025
+[Onboarding Sheet](https://github.com/team-codebug/babua-dsa-patterns-course/blob/main/ONBOARDING.md)
+
+
 ## 🚀 Babua DSA Patterns Sheet 2025
 [Babua Sheet](https://docs.google.com/spreadsheets/d/1T3vPcwlWdMRMYSf8IxQCKb3gX7rGzDss-ZU-R4XFM14/edit?usp=sharing)
+
+## 🚀 Babua DSA Patterns Revision Sheet 2025
+[Babua DSA Patterns Sheet 2025](https://docs.google.com/spreadsheets/d/1RESAUKlHFjdCrEO9YDySoHaHnn_FMdrAgSV9NdZdVos/edit?usp=sharing)
+- Make a copy of this sheet to start using the DSA Revision sheet
+- 🧠 **Revise Each thing at least 4 times** - Use the revision sheet to practice theory and questions multiple times so that you don't forget
 
 ## 📘 About the Course
 
@@ -51,6 +60,11 @@ Links will be updated as the series goes live!
 | X | From NOBODY to NITK, IITM, Intuit, Adobe, CTO and finally CEO of my own Company - My Journey so far | [Watch Now](https://www.youtube.com/watch?v=vMndRzz1SRo&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=11) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/blob/main/MY%20JOURNEY.svg) | ✅ |
 | 6 | Day 6/90 🔥 Solve Three Popular String Interview Questions with 1 Trick - Babua DSA Patterns 2025 | [Watch Now](https://www.youtube.com/watch?v=IW8gQ2u2O_I&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=12) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/6_Day) | ✅ |
 | 7 | Day 7/90 - ⚡ 🚀 Fast & Slow Pointers Explained - Crack Linked List Problems in O(n) - DSA Pattern #2 | [Watch Now](https://www.youtube.com/watch?v=FguUjuCzhj0&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=13) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/7_Day) | ✅ |
+| 8 | Day 8/90 - ⚡ 🚀 5 Popular Interview Questions Fast & Slow Pointers Pattern - DSA Pattern #2 | [Watch Now](https://www.youtube.com/watch?v=eIItwq8UTmU&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=14) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/8_Day) | ✅ |
+| X | The DSA Revolution has started - And "THEY" are not HAPPY | [Watch Now](https://www.youtube.com/watch?v=lkbQGa2tEYQ&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=15) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/blob/main/DSA%20Revolution%20Started.excalidraw.svg) | ✅ |
+| 9 | Day 9/90 - ⚡ 🚀 3 Popular Interview Questions Fast & Slow Pointers Pattern - DSA Pattern #2 | [Watch Now](https://www.youtube.com/watch?v=E85jp_rHivc&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=16) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/9_Day) | ✅ |
+| 10 | Day 10/90 - ⚡2130. Maximum Twin Sum of a Linked List - Fast & Slow Pointers Pattern - DSA Pattern #2 | [Watch Now](https://www.youtube.com/watch?v=t40HN4Rla30&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=17) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/10_Day) | ✅ |
+| 11 | Day 11/90 - ⚡457. Circular Array Loop - Fast & Slow Pointers Pattern - DSA Pattern #2 | [Watch Now](https://www.youtube.com/watch?v=nFZ1mysCZc0&list=PLVItHqpXY_DDFNeS6NUUoRsloyaPRdl1l&index=18) | [Notes](https://github.com/team-codebug/babua-dsa-patterns-course/tree/main/11_Day) | ✅ |
 
 ---
 
